@@ -1,8 +1,8 @@
-# McGeeLab
+# Taylor McGee
 
-## Hi, I’m Taylor McGee 👋
+Hi, I’m Taylor McGee 👋
 
-I’m a founder and builder working across software, games, and physical products.
+Founder and builder working across games, software, and physical products.
 
 ### What I’m building
 - 🎮 **Cyberkite Games** — indie game development
