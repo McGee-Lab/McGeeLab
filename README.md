@@ -7,7 +7,7 @@ Founder and builder working across games, software, and physical products.
 ### What I’m building
 - 🎮 **Cyberkite Games** — indie game development
 - 🛠️ **McGee’s Custom Creations** — laser-cut & maker products
-- ⚙️ **McGeeLab** — experiments, tools, and systems (handle)
+- ⚙️ **McGee-Lab** — experiments, tools, and systems (handle)
 
 ### Focus areas
 - Game systems & tooling
