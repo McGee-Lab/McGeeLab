@@ -35,7 +35,7 @@ A personal blood glucose display and alert system built using the Nightscout API
 
 ---
 
-### 🤖 NexaBot
+### 🤖 NebulaNode
 A custom Discord bot focused on automation, moderation, and extensible services.
 
 - TypeScript-based
