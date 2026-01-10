@@ -5,7 +5,7 @@
 McGeeLab is my personal lab for building software, hardware, and creative systems.  
 It serves as a central hub for experiments, tools, and long-term projects that live at the intersection of engineering, automation, and making.
 
-🔗 Live site: https://mcgeelab.taylor-mcgee.com
+🔗 Live site: https://mcgeelabs.com
 
 ---
 
@@ -70,7 +70,7 @@ I’m **Taylor McGee**, a founder and builder working across games, software, an
 
 McGeeLab exists as a long-term workspace — a place to build carefully, document clearly, and improve systems over time.
 
-🔗 Portfolio & links: https://mcgeelab.taylor-mcgee.com  
+🔗 Portfolio & links: https://mcgeelabs.com  
 🔗 GitHub: https://github.com/mcgee-lab
 
 ---
