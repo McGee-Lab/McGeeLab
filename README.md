@@ -9,7 +9,7 @@ It serves as a central hub for experiments, tools, and long-term projects that l
 
 ---
 
-## What is McGeeLab?
+## What is McGee Lab?
 
 McGeeLab isn’t a single product or framework — it’s a working space.
 
