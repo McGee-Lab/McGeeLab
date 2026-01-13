@@ -1,4 +1,4 @@
-# McGeeLab
+# McGee Lab
 
 **Experiments • Tools • Systems**
 
