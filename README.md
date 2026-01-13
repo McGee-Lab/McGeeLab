@@ -83,4 +83,7 @@ Projects here prioritize clarity, reliability, and intentional design over speed
 
 ---
 
+
+
+
 © 2026 Taylor McGee
