@@ -14,7 +14,7 @@ It serves as a central hub for experiments, tools, and long-term projects that l
 McGeeLab isn’t a single product or framework — it’s a working space.
 
 It’s where I:
-- prototype ideas
+- prototype ideas   
 - build internal tools
 - explore system design
 - connect software and physical hardware
