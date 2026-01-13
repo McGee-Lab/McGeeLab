@@ -82,8 +82,4 @@ McGeeLab exists as a long-term workspace — a place to build carefully, documen
 Projects here prioritize clarity, reliability, and intentional design over speed or hype.
 
 ---
-
-
-
-
 © 2026 Taylor McGee
